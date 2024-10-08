@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prasanjeet Keshri</h1>
-<h3 align="center">A full-stack developer driven to build robust, resilient and scalable applications.</h3>
+<h3 align="center">A full-stack developer with 2+ YOE, driven to build robust, resilient and scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshri-prasanjeet&label=Profile%20views&color=0e75b6&style=flat" alt="keshri-prasanjeet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshri-prasanjeet" alt="keshri-prasanjeet" /></a> </p>
 
-- 🔭 I’m currently working on a complete end-to-end microservice based e-commerce solution called [JeetKart](https://github.com/keshri-prasanjeet/JeetKart.git)
+#### Please find my resume here ➡️ [Resume](https://shorturl.at/6KPYc)
 
+- 🔭 I’m currently working on a complete end-to-end microservice based e-commerce solution called [JeetKart](https://github.com/keshri-prasanjeet/JeetKart.git)
+  
 - 🌱 I’m currently learning **React, NextJs**
+  
+-  👀 Check out JeetCode 💻, a LeetCode clone to practice DSA problems → [JeetCode](https://github.com/keshri-prasanjeet/JeetCode.git)
 
 - 🔎 also take a look at JeetFit for your gym 🏋🏻‍♂️ training plans → [JeetFit](https://github.com/keshri-prasanjeet/jeetfit.git)
-
-- 👀 Check out JeetCode 💻, a LeetCode clone to practice DSA problems → [JeetCode](https://github.com/keshri-prasanjeet/JeetCode.git)
 
 - 👨‍💻 All of my projects are available at [Prasanjeet Keshri - GitHub](https://github.com/keshri-prasanjeet)
 
@@ -19,7 +21,7 @@
 
 - 📫 Reach me at **prasanjeetkeshri@gmail.com**
 
-- 📄 Know about my experiences [resume](https://shorturl.at/6KPYc)
+- 📄 
 
 - I’ve solved over 450 **LeetCode questions—and counting!** [LeetCode profile](https://leetcode.com/u/prasanjeetkeshri/)
 
