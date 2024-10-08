@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [resume](https://shorturl.at/6KPYc)
 
-- I’ve solved over 450 **LeetCode questions—and counting!**
+- I’ve solved over 450 **LeetCode questions—and counting!** [LeetCode profile](https://leetcode.com/u/prasanjeetkeshri/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
