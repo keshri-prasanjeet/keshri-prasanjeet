@@ -24,7 +24,7 @@
 - I’ve solved over 450 **LeetCode questions—and counting!** [LeetCode profile](https://leetcode.com/u/prasanjeetkeshri/)
 
 - All of my applications are under the label of KeshriXLabs
-  ![KeshriXLabs](https://drive.google.com/file/d/1ZQX93g4DIbdh5lfWqnaJ5_VALcEXr8Fu/view?usp=sharing)
+  ![KeshriXLabs]([https://drive.google.com/file/d/1ZQX93g4DIbdh5lfWqnaJ5_VALcEXr8Fu/view?usp=sharing](https://i.postimg.cc/4dyXWTT9/Keshri-XLabs-expanded-logo.png))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
