@@ -13,13 +13,13 @@
 
 - 👀 Check out JeetCode 💻, a LeetCode clone to practice DSA problems → [JeetCode](https://github.com/keshri-prasanjeet/JeetCode.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/keshri-prasanjeet](https://github.com/keshri-prasanjeet)
+- 👨‍💻 All of my projects are available at [Prasanjeet Keshri - GitHub](https://github.com/keshri-prasanjeet)
 
 - 💬 Let us discuss about **SpringBoot, AWS**
 
 - 📫 Reach me at **prasanjeetkeshri@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/6KPYc](https://shorturl.at/6KPYc)
+- 📄 Know about my experiences [resume](https://shorturl.at/6KPYc)
 
 - I’ve solved over 450 **LeetCode questions—and counting!**
 
