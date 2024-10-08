@@ -21,8 +21,6 @@
 
 - 📫 Reach me at **prasanjeetkeshri@gmail.com**
 
-- 📄 
-
 - I’ve solved over 450 **LeetCode questions—and counting!** [LeetCode profile](https://leetcode.com/u/prasanjeetkeshri/)
 
 - All of my applications are under the label of KeshriXLabs
