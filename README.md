@@ -41,6 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshri-prasanjeet&show_icons=true&locale=en" alt="keshri-prasanjeet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshri-prasanjeet&" alt="keshri-prasanjeet" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshri-prasanjeet&theme=ayu-light&date_format=%5BY.%5Dn.j&card_width=600&card_height=215)](https://git.io/streak-stats)
