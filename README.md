@@ -41,4 +41,4 @@
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/keshri-prasanjeet?cardType=level&theme=vue&preferLogin=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshri-prasanjeet&theme=ayu-light&date_format=%5BY.%5Dn.j&card_width=600&card_height=215)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshri-prasanjeet)](https://git.io/streak-stats)
