@@ -7,7 +7,7 @@
 
 #### Please find my resume here ➡️ [Resume](https://shorturl.at/6KPYc)
 
-- 🔭 I’m currently working on a complete end-to-end real-time chatting application using web sockets [WhatsJeet](https://github.com/keshri-prasanjeet/WhatsJeet.git)
+- 🔭 I’m currently working on a Next Generational Chatting application [NeoAnthrop](https://github.com/keshri-prasanjeet/NeoAnthrop.git)
   
 - 🌱 I’m currently learning **React, NextJs**
   
