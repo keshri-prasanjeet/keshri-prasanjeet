@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshri-prasanjeet" alt="keshri-prasanjeet" /></a> </p>
 
-#### Please find my resume here ➡️ [Resume](https://shorturl.at/6KPYc)
+#### Please find my resume here ➡️ [Resume](https://drive.google.com/file/d/1kRDzujDbxSH2soWnfQzcP2NYq3YGGr5v/view?usp=drive_link)
 
 - 🔭 I’m currently working on a Next Generational Chatting application [NeoAnthrop](https://github.com/keshri-prasanjeet/NeoAnthrop.git)
   
